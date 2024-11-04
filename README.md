@@ -45,13 +45,6 @@ This project is an implementation of a basic database management system (DBMS) d
 - Applied efficient search algorithms for filtering data according to user-defined criteria.
 - Managed key uniqueness and data validation using algorithmic checks and helper functions.
 
-## Getting Started
-To begin, download the code from this repository. This can be done either directly using Git or by downloading the project as a zip file. The recommended method is using Git as explained below:
-
-```bash
-git clone https://git.exactas.uba.ar/mmiguel/aed2-2c2017-tp1.git
-```
-
 ### Running the Project in CLion (Optional)
 1. In CLion, go to **File -> Import Project** and select "Open Project."
 2. Once the project loads, select "correrTests" from the top right corner.
